@@ -1,8 +1,9 @@
 
-## This is repo is used to manage my open source contributions raised as issues.
+# Opensource Contributions By @codeanit
 
 ## Process
-1. Find oensource projects
-1. Review issues
-1. Raise an issue here.
+1. Find oensource project of interest.
+2. Understand the project.
+3. Code review.
+4. Raise an [issue](https://github.com/OpenIssues/openissues.github.io/issues) here.
 
